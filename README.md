@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Vann 👋
 
-<!--
-**about-vann/about-vann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Developer · Builder · Tech Enthusiast**
 
-Here are some ideas to get you started:
+I enjoy building clean, useful, and modern digital experiences — from web projects and interfaces to small experiments that turn ideas into something real.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+
+- 💻 Building web & software projects
+- 🎨 Interested in clean, minimal UI/UX
+- 🧩 Enjoy learning by building
+- 🚀 Always exploring new technologies
+
+### Tech
+
+`HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Node.js` · `Git` · `GitHub`
+
+### Currently
+
+> Turning ideas into simple, functional projects.
+
+---
+
+<p align="center">
+  <sub>Built with curiosity and code.</sub>
+</p>
