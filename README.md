@@ -46,10 +46,11 @@ I'm Vann, a developer who enjoys turning ideas into simple, functional products.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&center=true&vCenter=true&width=500&lines=Keep+building.;Keep+learning.;Keep+exploring.;%3C+code%2C+create%2C+repeat+%2F%3E" alt="Animated typing text" />
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="90" alt="Animated pixel-art character" />
 
 <br>
+<br>
 
-<sub>Made with curiosity & code.</sub>
+<sub>Keep building · Keep learning · Keep exploring</sub>
 
 </div>
