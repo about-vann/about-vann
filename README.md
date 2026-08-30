@@ -37,8 +37,9 @@ I'm Vann, a developer who enjoys turning ideas into simple, functional products.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=about-vann&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Vann's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=about-vann&layout=compact&hide_border=true" alt="Vann's top languages" />
+[![Repositories](https://img.shields.io/badge/Repositories-view-181717?style=flat-square&logo=github)](https://github.com/about-vann?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/about-vann?style=flat-square&label=Followers)](https://github.com/about-vann?tab=followers)
+[![Stars](https://img.shields.io/github/stars/about-vann?style=flat-square&label=Stars)](https://github.com/about-vann?tab=stars)
 
 </div>
 
@@ -46,7 +47,19 @@ I'm Vann, a developer who enjoys turning ideas into simple, functional products.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="90" alt="Animated pixel-art character" />
+### 🌲 Forest corner
+
+<img src="https://raw.githubusercontent.com/tonybaloney/vscode-pets/main/media/backgrounds/forest/background-dark-medium.png" width="720" alt="Pixel art forest" />
+
+<br>
+
+<img src="https://raw.githubusercontent.com/tonybaloney/vscode-pets/main/media/dog/akita_walk_8fps.gif" width="95" alt="Animated pixel dog" />
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/tonybaloney/vscode-pets/main/media/snake/green_walk_8fps.gif" width="95" alt="Animated pixel snake" />
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/tonybaloney/vscode-pets/main/media/fox/red_walk_8fps.gif" width="95" alt="Animated pixel fox" />
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/tonybaloney/vscode-pets/main/media/crab/red_walk_8fps.gif" width="95" alt="Animated pixel crab" />
 
 <br>
 <br>
