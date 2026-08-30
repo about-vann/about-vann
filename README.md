@@ -37,13 +37,8 @@ I'm Vann, a developer who enjoys turning ideas into simple, functional products.
 
 <div align="center">
 
-<a href="https://github.com/about-vann">
-  <img src="https://github-readme-stats.vercel.app/api?username=about-vann&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Vann's GitHub stats" />
-</a>
-
-<a href="https://github.com/about-vann">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=about-vann&layout=compact&hide_border=true" alt="Vann's top languages" />
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=about-vann&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Vann's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=about-vann&layout=compact&hide_border=true" alt="Vann's top languages" />
 
 </div>
 
@@ -51,6 +46,10 @@ I'm Vann, a developer who enjoys turning ideas into simple, functional products.
 
 <div align="center">
 
-<sub>Keep building. Keep learning.</sub>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&center=true&vCenter=true&width=500&lines=Keep+building.;Keep+learning.;Keep+exploring.;%3C+code%2C+create%2C+repeat+%2F%3E" alt="Animated typing text" />
+
+<br>
+
+<sub>Made with curiosity & code.</sub>
 
 </div>
